@@ -1,7 +1,10 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
 ul {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
 }
 
 li {
